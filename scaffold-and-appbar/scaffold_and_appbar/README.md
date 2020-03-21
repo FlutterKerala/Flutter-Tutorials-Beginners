@@ -1,4 +1,4 @@
-# scaffoldandappbar
+# scaffold and appbar Example
 
 A new Flutter application with Scaffold and Appbar
 
