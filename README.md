@@ -46,7 +46,7 @@ Clone or Download the Folder and open scaffold_and_appbar Folder in your favouri
 
 This app is just a simple app which displays a image which is fetched from the Internet and contains Scaffold with AppBar
 
-![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/network_image_app/screenshots/Scrshot_network_img.png "App Preview Scaffold")
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/network_image_app/ScreenShots/Scrshot_network_img.png "App Preview Scaffold")
 
 **How to Run**
 
