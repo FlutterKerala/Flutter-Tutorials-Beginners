@@ -1,4 +1,4 @@
-# Flutter-Tutorials
+# Flutter Tutorials
 My Learning Progress of Flutter and can be used by anyone to get familiarized with it
 
 **01. App that Simply Displays a Text**
@@ -21,8 +21,8 @@ https://api.flutter.dev/flutter/material/Scaffold-class.html
 
 This app is just a simple which displays a Scaffold with AppBar
 
-![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/ "App Preview Scaffold")
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scaffold-and-appbar/screenshots/sca.png "App Preview Scaffold")
 
 **How to Run**
 
-Clone or Download the Folder and open simple_text_app Folder in your favourite editor [Android Studio / vscode ]
+Clone or Download the Folder and open scaffold_and_appbar Folder in your favourite editor [Android Studio / vscode ]
