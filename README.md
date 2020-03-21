@@ -4,7 +4,9 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 **App List**
 
 **01. App that Simply Displays a Text**
+
 **02. Scaffold App**
+
 **03. Image Fetching App**
 
 **App Details**
@@ -38,6 +40,7 @@ Clone or Download the Folder and open scaffold_and_appbar Folder in your favouri
 **03.Image Fetching App**
 
 *Implemented Stuff*
+
 *App Bar More info: https://api.flutter.dev/flutter/material/AppBar-class.html
 
 *Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
