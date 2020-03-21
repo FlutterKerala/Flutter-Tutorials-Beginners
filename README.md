@@ -39,14 +39,16 @@ Clone or Download the Folder and open scaffold_and_appbar Folder in your favouri
 
 *Implemented Stuff*
 *App Bar More info: https://api.flutter.dev/flutter/material/AppBar-class.html
+
 *Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
+
 *NetworkImage (Images Widget) More info: https://api.flutter.dev/flutter/widgets/Image-class.html
 
 
 
 This app is just a simple app which displays a image which is fetched from the Internet and contains Scaffold with AppBar
 
-![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/network_image_app/ScreenShots/Scrshot_network_img.png "App Preview Scaffold")
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/network_image_app/ScreenShot/Scrshot_network_img.png "App Preview Scaffold")
 
 **How to Run**
 
