@@ -9,7 +9,7 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 
 **03. Image Fetching App**
 
-**App Details**
+# **App Details**
 
 **01. App that Simply Displays a Text**
 
