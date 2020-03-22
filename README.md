@@ -11,6 +11,8 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 
 **04. App explaining about SafeArea and container**
 
+**05. Stateless Widget App**
+
 # **App Details**
 
 # **01. App that Simply Displays a Text**
@@ -80,3 +82,27 @@ This app is just a simple app which illustrates the SafeArea and Container conta
 **How to Run**
 
 Clone or Download the Folder and open safe_area_and_container Folder in your favourite editor [Android Studio / vscode ]
+
+# **05.Stateless Widget App**
+
+*Implemented Stuff*
+
+*Stateless Widget More info: https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
+
+*App Bar More info: https://api.flutter.dev/flutter/material/AppBar-class.html
+
+*Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+*Container More info: https://api.flutter.dev/flutter/widgets/Container-class.html
+
+*Text class More info: https://api.flutter.dev/flutter/widgets/Text-class.html
+
+*TextStyle More info: https://api.flutter.dev/flutter/painting/TextStyle-class.html
+
+This app is just a simple app which illustrates the Stateless Widget which contains Scaffold with AppBar and body part with Text applied Some TextStyles
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr5.png "App Preview SafeArea")
+
+**How to Run**
+
+Clone or Download the Folder and open stateless_scaffold_app Folder in your favourite editor [Android Studio / vscode ]
