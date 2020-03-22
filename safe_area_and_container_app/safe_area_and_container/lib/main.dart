@@ -8,11 +8,13 @@ void main() => runApp(
         title: Text("Safe Area And Container"),
       ),
       backgroundColor: Colors.pinkAccent,
-      body: Container(
+      body: SafeArea(
+        child:Container(
         color: Colors.white70,
         child:
         Text('This is a Text in Container'),
       ),
+    ),
     ),
   )
 );
