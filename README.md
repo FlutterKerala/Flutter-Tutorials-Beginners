@@ -9,9 +9,11 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 
 **03. Image Fetching App**
 
+**04. App explaining about SafeArea and container**
+
 # **App Details**
 
-**01. App that Simply Displays a Text**
+# **01. App that Simply Displays a Text**
 
 This app is just a simple app which displays a text which is center aligned Check the ScreenShots
 
@@ -22,7 +24,7 @@ This app is just a simple app which displays a text which is center aligned Chec
 
 Clone or Download the Folder and open simple_text_app Folder in your favourite editor [Android Studio / vscode ]
 
-**02. Scaffold App**
+# **02. Scaffold App**
 
 What is Scaffold??
 A Scaffold Widget provides a framework which implements the basic material design visual layout structure of the flutter app. It provides APIs for showing drawers, snack bars and bottom sheets. Have a look at its constructor and the properties it has.
@@ -37,7 +39,7 @@ This app is just a simple app which displays a Scaffold with AppBar
 
 Clone or Download the Folder and open scaffold_and_appbar Folder in your favourite editor [Android Studio / vscode ]
 
-**03.Image Fetching App**
+# **03.Image Fetching App**
 
 *Implemented Stuff*
 
@@ -57,3 +59,24 @@ This app is just a simple app which displays a image which is fetched from the I
 
 Clone or Download the Folder and open network_image_app Folder in your favourite editor [Android Studio / vscode ]
 
+# **04. App explaining about SafeArea and container**
+
+*Implemented Stuff*
+
+*App Bar More info: https://api.flutter.dev/flutter/material/AppBar-class.html
+
+*Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+*Container More info: https://api.flutter.dev/flutter/widgets/Container-class.html
+
+*SafeArea More info: https://api.flutter.dev/flutter/widgets/SafeArea-class.html
+
+
+
+This app is just a simple app which illustrates the SafeArea and Container contains Scaffold with AppBar
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/safe_area_and_container_app/ScreenShot/safearea.png "App Preview SafeArea")
+
+**How to Run**
+
+Clone or Download the Folder and open safe_area_and_container Folder in your favourite editor [Android Studio / vscode ]
