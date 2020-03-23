@@ -106,3 +106,25 @@ This app is just a simple app which illustrates the Stateless Widget which conta
 **How to Run**
 
 Clone or Download the Folder and open stateless_scaffold_app Folder in your favourite editor [Android Studio / vscode ]
+
+# **06.Row Layout App**
+
+
+This app is just a simple app which illustrates the Row layout
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr6.png "App Preview Row Layout")
+
+**How to Run**
+
+Clone or Download the Folder and open row_app Folder in your favourite editor [Android Studio / vscode ]
+
+# **07.Column Layout App**
+
+
+This app is just a simple app which illustrates the Column layout
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr7.png "App Preview column layout")
+
+**How to Run**
+
+Clone or Download the Folder and open col_app Folder in your favourite editor [Android Studio / vscode ]
