@@ -140,7 +140,7 @@ This app is just a simple app which illustrates the CircleAvatar widget
 
 Clone or Download the Folder and open circle_avatar Folder in your favourite editor [Android Studio / vscode ]
 
-# **08.Sonic About App**
+# **09.Sonic About App**
 
 
 *Implemented Stuff*
