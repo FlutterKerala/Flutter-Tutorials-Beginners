@@ -21,7 +21,7 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 
 **09. About Sonic App**
 
-**10. StateFul App with FloatingButton**
+**10. StateFul App with Floating Action Button**
 
 # **App Details**
 
@@ -177,27 +177,19 @@ This app is just a simple app which illustrates Card,ListTile etc
 
 Clone or Download the Folder and open sonic_about_app Folder in your favourite editor [Android Studio / vscode ]
 
-**10. StateFul App with FloatingButton**
+**10. StateFul App with Floating Action Button**
 
 *Implemented Stuff*
 
-*ListTile More Info: https://api.flutter.dev/flutter/material/ListTile-class.html
-
-*Card More Info : https://api.flutter.dev/flutter/material/Card-class.html
-
-*Stateless Widget More info: https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
-
-*Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
-
-*Container More info: https://api.flutter.dev/flutter/widgets/Container-class.html
-
-*Text class More info: https://api.flutter.dev/flutter/widgets/Text-class.html
-
-*TextStyle More info: https://api.flutter.dev/flutter/painting/TextStyle-class.html
+*Stateful Widget More info: https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html
+*Floating Action Button More Info: https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html
 
 This app is just a simple app which illustrates Card,ListTile etc 
 
-![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr9.png "App Preview CircleAvatar")
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr10.png "App Preview")
+
+[![Watch the video](https://img.youtube.com/vi/ElD_YPRfyv0/maxresdefault.jpg)](https://youtu.be/ElD_YPRfyv0)
+
 
 **How to Run**
 
