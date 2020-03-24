@@ -128,3 +128,41 @@ This app is just a simple app which illustrates the Column layout
 **How to Run**
 
 Clone or Download the Folder and open col_app Folder in your favourite editor [Android Studio / vscode ]
+
+# **08.Circular Avatar App**
+
+
+This app is just a simple app which illustrates the CircleAvatar widget
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr8.png "App Preview CircleAvatar")
+
+**How to Run**
+
+Clone or Download the Folder and open circle_avatar Folder in your favourite editor [Android Studio / vscode ]
+
+# **08.Sonic About App**
+
+
+*Implemented Stuff*
+
+*ListTile More Info: https://api.flutter.dev/flutter/material/ListTile-class.html
+
+*Card More Info : https://api.flutter.dev/flutter/material/Card-class.html
+
+*Stateless Widget More info: https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
+
+*Scaffold More info: https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+*Container More info: https://api.flutter.dev/flutter/widgets/Container-class.html
+
+*Text class More info: https://api.flutter.dev/flutter/widgets/Text-class.html
+
+*TextStyle More info: https://api.flutter.dev/flutter/painting/TextStyle-class.html
+
+This app is just a simple app which illustrates Card,ListTile etc 
+
+![Alt text](https://raw.githubusercontent.com/antojosu/Flutter-Tutorials/master/scrshot/scr9.png "App Preview CircleAvatar")
+
+**How to Run**
+
+Clone or Download the Folder and open sonic_about_app Folder in your favourite editor [Android Studio / vscode ]
