@@ -13,6 +13,15 @@ My Learning Progress of Flutter and can be used by anyone to get familiarized wi
 
 **05. Stateless Widget App**
 
+**06. Row Widget App**
+
+**07. Column Widget App**
+
+**08. CircleAvatar App**
+
+**09. About Sonic App**
+
+
 # **App Details**
 
 # **01. App that Simply Displays a Text**
